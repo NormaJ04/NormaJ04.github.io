@@ -9,7 +9,9 @@
   <body>
     
     <h1> Hi this is Norma's Page!</h1>
-    <a href= "visualdesign.html"> Visual Design </a>
+    <br>
+    <a href= "index.html"> HOME </a>
+    <br>
       <p> This is my website! </p> 
  
    
