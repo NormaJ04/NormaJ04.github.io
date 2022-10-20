@@ -1,0 +1,57 @@
+ <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Picture #1  </h1>
+    <img src = "Dolphin.jpeg" alt = "Dolphin">
+    <br>
+    <p> The original image has a resolution of 300 x 168 </p>
+    <p> The aspect ratio is 300/ 168 or 1.78 </p>
+     <p> The image at half the size is 150 x 84 </p>
+    <img src = "Dolphin.jpeg" alt = "Dolphin " width = "150" height = "84"> 
+     <p> The image at quarter the size is 75 x 42 </p>
+    <img src ="Dolphin.jpeg" alt = "Dolphin" width = "75" height = "42">
+
+  
+
+ 
+ <h2>  ----------------This divides the section (don't delete) ---- </h2>
+    <h1>Picture #2 </h1>
+
+    <p> The original image has a resolution of 259 x  194 </p>
+    <p> The aspect ratio is 259/ 194 or 1.33 </p>
+      <img src= "sunset.jpeg" alt= "Sunset">
+
+    <p> The image at half the size is 129.5 x 97 </p>
+      <img src = "sunset.jpeg" alt= "Sunset" width = "129.5" height = "97">
+
+<p> The image at quarter the size is 64.75 x 48.5 </p>
+<img src = "sunset.jpeg" alt = "Sunset" width = "64.75" height= "48.5">
+
+
+    
+    
+ 
+
+
+
+
+ <h2>  ----------------This divides the section (don't delete) ---- </h2>
+    
+    
+    
+    <h1>Picture #3 </h1>
+ <p> The original image has a resolution of 251 x 201 </p>
+    <p> The aspect ratio is 251/ 201 or 1.24 </p>
+      <img src= "Dubia.jpeg" alt= "Dubia">
+        
+    <p> The image at half the size is 125.5 x 100.5 </p>
+      <img src = "Dubia.jpeg" alt = "Dubia" width = "125.5" height = "100.5">
+
+   <p> The image at quarter the size is 62.75 x  50.25 </p>
+     <img src= "Dubia.jpeg" alt= "Dubia" width= "62.75"   height="50.25" >
+  </body>
+  
+</html>
