@@ -14,11 +14,13 @@
       
      
       
-      
+      body {background-color: coral;}
       
       
       
      <h1> What's your vibe</h1>
+     
+     <img src="what'sthevibe.png" alt=" What's the Vibe" width="500" height="600">
      
  <p> I use the program adobe express to describe my personal aesthetic. I started by
 selecting pictures that represent my 6 word memoirs. I chose pictures that were yellow
